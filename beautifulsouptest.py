@@ -24,5 +24,5 @@ with open(file='/Users/a10.12/Documents/title.txt',mode='w+') as file:
     except ConnectionError:
         print('connect error')
     except IOError:
-        
+
         print('io error')
