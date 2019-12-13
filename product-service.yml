@@ -8,5 +8,5 @@ eureka:
 spring:
   application:
     name: product-service
-env: your beauiful
+env: yourbeauifulff
 branch: master
